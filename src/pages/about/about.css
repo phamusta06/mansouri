@@ -1,0 +1,26 @@
+.btn{
+    background: red;
+}
+@media screen and (min-width: 400px){
+
+    .profilImg{
+       animation: imgMove 20s infinite;
+    }
+    @keyframes imgMove {
+       0%{
+        
+       }
+       25%{
+       }
+       50%{
+          
+       }
+      75%{
+        
+       }
+      100%{
+           
+       }
+       
+    }
+   }
